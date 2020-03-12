@@ -1,4 +1,4 @@
-# scaffolding-vue
+# 📝Example of Scaffolding for Vue 💚 projects
 
 ## Project setup
 ```
